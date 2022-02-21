@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alexpanera
+- 👀 I’m interested in machine learning and nuclear fusion
+- 🌱 I’m currently learning ML and AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: paneralex@hotmail.com
+--->
